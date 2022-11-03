@@ -1,0 +1,136 @@
+.main{font-family: verdana, arial, helvetica, sans-serif; font-size: 16px; font-weight:normal}
+table {background-repeat:no-repeat;}
+
+html, body {
+	margin:0;
+	padding:0;
+	height: 100%;
+	font-family: verdana, arial, helvetica, sans-serif; 
+	font-size: 12px;
+	}
+
+ul {
+	margin:0;
+	padding:0;
+	font-family: verdana, arial, helvetica, sans-serif; 
+	font-size:14px;
+	text-indent:20px; 
+	}
+	
+p {
+	margin:0;
+	padding:0;
+	font-family: verdana, arial, helvetica, sans-serif; 
+	font-size:14px;
+	text-indent:20px; 
+	}
+	
+	a{text-decoration:underline; color:black}
+	a:hover {text-decoration:underline; color:blue}
+	a:visited {text-decoration:underline;}
+	
+h1 {font-family: verdana, arial, helvetica, sans-serif; font-size: 18px; margin:0; padding:0;}
+
+
+h2 {font-family: verdana, arial, helvetica, sans-serif; font-size: 14px; font-weight:bold}
+h3 {font-family: verdana, arial, helvetica, sans-serif; font-size: 14px; font-weight:normal}
+h6 {font-family: verdana, arial, helvetica, sans-serif; font-size:12px; text-indent:0px;}
+c {font-family: verdana, arial, helvetica, sans-serif; font-size:12px; text-indent:0px;}
+
+.menu {
+	font-family: verdana, arial, helvetica, sans-serif; 
+	font-size: 16px; 
+	font-weight:normal;
+	text-decoration: none;
+	}
+	
+.menu:hover {
+	font-family: verdana, arial, helvetica, sans-serif; 
+	font-size: 16px; 
+	font-weight:bold;
+	text-decoration: underline;
+	}
+	
+.menul {
+	font-family: verdana, arial, helvetica, sans-serif; 
+	font-size: 14px; 
+	font-weight:normal;
+	text-decoration: none;
+	}
+	
+.menul:hover {
+	font-family: verdana, arial, helvetica, sans-serif; 
+	font-size: 15px; 
+	font-weight:bold;
+	text-decoration: none;
+	}
+
+.block1 {
+	width: 80%;
+	padding: 5px;
+	float: center;
+	border: 1px solid;
+}
+
+
+#img {
+	vertical-align: center;
+	width: 90%;
+}
+
+#title {
+	padding: 5px;
+	text-align: center;
+}
+
+body {
+            background: #f3f2f3;
+            color: #000000;
+            font-family: Trebuchet MS, Arial, Times New Roman;
+            font-size: 12px;
+}
+ 
+#container {
+            background:#99CC99;
+            margin: 30px auto;
+            width: 900px;
+            height: 600px;
+}
+ 
+#header {
+            background: #66CCCC;
+            height: 100px;
+            width: 900px;
+}
+ 
+#navigation {
+            background: #FF9999;
+            width: 900px;
+            height: 20px;
+}
+ 
+#menu {
+            background: #99CC99;
+            float: left;
+            width: 200px;
+            height: 400px;
+}
+ 
+#content {
+            background: #d2d0d2;
+            float: right;
+ 
+            width: 700px;
+            height: 400px;
+}
+ 
+#clear {
+            clear:both;
+}
+ 
+#footer {
+            background: #0066FF;
+            height: 80px;
+            width: 900px;
+}
+

@@ -1,0 +1,123 @@
+
+h1 {
+    font-size: 5vw;
+  }
+
+
+h2 {
+    font-size: 4vw;
+  }
+
+p {
+    font-size: 3vw;
+    text-align: justify;
+  }
+
+
+body {
+    font-size: 3vw;
+    border: 0px solid black;
+
+  }
+   
+img {
+    margin: 0 auto;
+  }
+
+  table {
+  width: 100%;
+  border: 1px double black;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 3vw;
+  color: black;
+}
+
+
+td {
+  border: 1px solid black;
+}
+
+.main {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.block1 {
+    width: 95%;
+    position: relative;
+    margin: 0 auto;
+    border: 0px solid black;
+    padding: 1%;
+    text-align: left;
+    vertical-align: middle;
+    color: black;  
+    background: white;
+    }
+  
+.container {
+    border: 0px solid black;
+    margin: 0 auto;
+    }
+
+  
+#button {
+  	width: 90%;
+  	position: relative;
+  	margin: 0 auto;
+  	border: 0px solid black;
+  	padding: 1%;
+
+  	text-align: left;
+  	vertical-align: middle;
+    color: white;  
+    font-family: verdana, arial, helvetica, sans-serif; 
+    font-weight: normal;
+    line-height: height;
+
+  	background: red;
+    }
+
+
+#button a {
+     display: block; /* Ссылка как блочный элемент */ 
+    }
+#button A {
+    color: white; /* Цвет ссылок */
+   }
+  
+
+.block1 A {
+    color: black;
+  }
+
+  
+  A {
+    color: black; /* Цвет ссылок */
+   }
+   A:visited {
+    color: grey; /* Цвет посещенных ссылок */
+   }
+   A:active {
+    color: blue; /* Цвет активных ссылок */
+   }
+
+
+.brd {
+    border: 4px double black; /* Параметры границы */
+    background: #fc3; /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+   }
+
+#titleimg {
+  width: 30%;
+  float: right;
+  margin: 1vw;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}

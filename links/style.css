@@ -1,0 +1,56 @@
+body {
+  max-width: 1200px;
+  border: 0px solid black;
+  margin: auto;
+}
+
+.main {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0px solid black;
+}
+.block1 {
+  	width: 100%;
+  	position: relative;
+  	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+  	border: 0px solid black;
+  	padding: 1%;
+
+  	text-align: center;
+  	vertical-align: middle;
+    color: white;  
+    font-family: verdana, arial, helvetica, sans-serif;
+  	background: #900808;
+    
+  }
+
+  p {
+    font-size: 3vw;
+    margin: 0%;
+    padding: 0%;
+    border: 0px solid black;
+}
+
+  	h1 {
+    font-size: 3vw;
+  }
+
+  
+
+  .block1 a {
+     display: block; /* Ссылка как блочный элемент */ 
+    }
+
+  A {
+    color: white; /* Цвет ссылок */
+   }
+   A:visited {
+    color: grey; /* Цвет посещенных ссылок */
+   }
+   A:active {
+    color: blue; /* Цвет активных ссылок */
+   }
+
